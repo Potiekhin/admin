@@ -12,7 +12,7 @@ mysql-connector-python==8.0.21
 numpy==1.19.1
 pandas==1.1.0
 pipenv==2018.11.26
-protobuf==3.12.4
+protobuf==3.18.3
 python-dateutil==2.8.1
 pytz==2020.1
 six==1.15.0
